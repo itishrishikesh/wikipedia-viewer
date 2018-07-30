@@ -1,3 +1,5 @@
 # wikipedia-viewer
 
-A wikipedia search web apps built using the wikipedia api. It provides with list of result obtained.
+Wikipedia Viewer is a wikipedia search build with javascript and jquery using the wikipedia's official api.
+
+For demo, click <a href="https://codepen.io/hris_hi/full/XRLRqp/">here</a>
